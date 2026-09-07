@@ -7,6 +7,7 @@ __pycache__/
 .jbeval/
 .workbuddy/
 .git-legacy/
+assets/
 data/qdrant_storage/
 data/sessions/*.json
 data/sessions/*.backup
