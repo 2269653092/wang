@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+.idea/
+.jbeval/
+.workbuddy/
+.git-legacy/
+data/qdrant_storage/
+data/sessions/*.json
+data/sessions/*.backup
+data/sessions_web/*.json
+data/sessions_web/*.backup
