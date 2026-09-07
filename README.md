@@ -10,10 +10,8 @@ Multi-Agent/
 ├── vectorizer/   # 文档分块、Embedding 生成和 Qdrant 写入
 ├── knowledge/    # FAQ 原始文档、配置和增量更新服务
 ├── data/         # SQLite 数据库、会话数据和运行日志
-├── docs/         # 详细说明、学习指南和原项目文档
-├── assets/       # 系统流程图和演示图片
+├── docs/         # 项目文档
 ├── scripts/      # 开发辅助脚本
-└── drafts/       # 迁移前的学习草稿和旧目录残留，不参与运行
 ```
 
 ## 关键入口
@@ -24,7 +22,6 @@ Multi-Agent/
 - 专业助手：`app/assistants/`
 - 工具函数：`app/tools/`
 - 向量化入口：`vectorizer/main.py`
-- 项目学习指南：`docs/PROJECT_GUIDE.md`
 
 ## 启动方式
 
