@@ -8,6 +8,7 @@ __pycache__/
 .workbuddy/
 .git-legacy/
 assets/
+docs/
 data/qdrant_storage/
 data/sessions/*.json
 data/sessions/*.backup
