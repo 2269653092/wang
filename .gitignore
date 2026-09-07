@@ -9,6 +9,7 @@ __pycache__/
 .git-legacy/
 assets/
 docs/
+scripts/
 data/qdrant_storage/
 data/sessions/*.json
 data/sessions/*.backup
