@@ -10,8 +10,6 @@ Multi-Agent/
 ├── vectorizer/   # 文档分块、Embedding 生成和 Qdrant 写入
 ├── knowledge/    # FAQ 原始文档、配置和增量更新服务
 ├── data/         # SQLite 数据库、会话数据和运行日志
-├── docs/         # 项目文档
-├── scripts/      # 开发辅助脚本
 ```
 
 ## 关键入口
